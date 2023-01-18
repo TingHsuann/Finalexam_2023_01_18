@@ -1,0 +1,45 @@
+.body{
+    background-image: ("img/lightpaperfibers.png");
+}
+/* 導覽列 */
+.nav-link{
+    color: #3A3A3A;
+}
+.nav-link:hover{
+    color: #F9C745;
+}
+.box-item:hover{
+    color: #F9C745 !important;
+}
+.title1{
+    size: 24px;
+    text-align: left;
+    font: normal normal bold 24px/39px Kalam;
+    color: #F9C745;
+    opacity: 1;
+}
+.title2{
+    size: 32px;
+    font: normal normal bold 32px/51px Kalam;
+    letter-spacing: 0px;
+    color: #3A3A3A;
+    opacity: 1;
+}
+.lead{
+    letter-spacing: 1.28px;
+}
+.btn-contact, .btn-contact:focus {
+	border: 1px solid #3A3A3A;
+}
+.btn-contact:hover {
+    color: #3A3A3A;
+	background: #F9C745;
+	border-color: #F9C745;
+}
+.btn-shadow:hover{
+    box-shadow: 0px 3px 0px #3A3A3A;
+    border-radius: 23px;
+}
+.more:hover{
+    color: #F9C745 !important;
+}
